@@ -1,1 +1,2 @@
 File creato su branch developer1
+Modifica 1 per stash
